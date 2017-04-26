@@ -11,3 +11,6 @@ dist/*
 checkpoint
 htmlcov
 mnist
+
+# PyCharm .idea files
+.idea/
